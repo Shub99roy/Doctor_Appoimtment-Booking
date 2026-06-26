@@ -24,6 +24,20 @@ A secure, responsive, and performant multi-tier web application engineered using
 * **Deployment & Tooling:** Git, Postman, Vercel / Render
 
 ---
+<img width="1920" height="864" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/4431c2ae-5da2-4a00-8825-5c0363075895" />
+
+<img width="1920" height="858" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/44e8853f-feb8-4586-85be-4b9e06fbf56d" />
+<img width="1920" height="856" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/54110c7d-fc78-4405-b601-5473d596623c" />
+
+
+<img width="1920" height="874" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/5edb8dbb-4300-4868-96bf-28c5b488c622" />
+
+
+
+<img width="1920" height="861" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/a62cc23d-98b1-4f36-9835-8d83ca09bf68" />
+
+<img width="1920" height="856" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/5496dc17-6fca-4595-a0e8-1239c8615686" />
+
 
 ## 📂 Architecture & Directory Structure
 
@@ -44,8 +58,6 @@ A secure, responsive, and performant multi-tier web application engineered using
     │   └── App.jsx      # React router and application layout mapping
 
 
-
-<img width="1920" height="861" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/01c70b0a-4eed-49f8-ba98-ea5b003dd25c" />
 
 
 
